@@ -29,8 +29,9 @@
 </html>
 
 
-
 <?php 
+
+//documento para el registro
 	require "pelicula.php";
 
 
